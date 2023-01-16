@@ -1,2 +1,2 @@
 # hola-mundo
-# Esta es mi primer edición desde Geekhubs Academy
+# Esta es mi primera edición desde Geekhubs Academy
